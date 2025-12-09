@@ -78,10 +78,10 @@ Below are some key visualizations from the project:
 
 
 ```
-![GDP Trend](plots/time_series_sample_entities.png)
-![Median GDP](plots/heatmap_entity_decade.png)
-![Country Comparison](plots/highlight_trend.png)
-![Top Countries](plots/small_multiples_top12.png)
+![GDP Trend](../plots/time_series_sample_entities.png)
+![Median GDP](../plots/heatmap_entity_decade.png)
+![Country Comparison](../plots/highlight_trend.png)
+![Top Countries](../plots/small_multiples_top12.png)
 ```
 
 ---
