@@ -78,11 +78,12 @@ Below are some key visualizations from the project:
 
 
 ```
-![GDP Trend](../plots/time_series_sample_entities.png)
-![Median GDP](../plots/heatmap_entity_decade.png)
-![Country Comparison](../plots/highlight_trend.png)
-![Top Countries](../plots/small_multiples_top12.png)
+![GDP Trend](https://github.com/Hina-Hanif/World-GDP-Growth-Analysis/blob/main/plots/time_series_sample_entities.png)
+![Median GDP](https://github.com/Hina-Hanif/World-GDP-Growth-Analysis/blob/main/plots/heatmap_entity_decade.png)
+![Country Comparison](https://github.com/Hina-Hanif/World-GDP-Growth-Analysis/blob/main/plots/highlight_trend.png)
+![Top Countries](https://github.com/Hina-Hanif/World-GDP-Growth-Analysis/blob/main/plots/small_multiples_top12.png)
 ```
+Checkout all other graphs in plots folder.
 
 ---
 
